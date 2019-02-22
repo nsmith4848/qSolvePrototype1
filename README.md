@@ -1,2 +1,2 @@
 # qSolvePrototype1
-This is a spike repository for a cs4900 project
+This is the repository for the floating point spikes
